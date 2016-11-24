@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi all,
+
+I am an engineer studying part-time MSc course in Computer Science.
